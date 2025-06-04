@@ -1,0 +1,14 @@
+ItemName_RU = {
+	ItemName_Insurgent.DeployedParachute = "Раскрытый парашют",
+	ItemName_Insurgent.Sample1 = "Экспериментальный препарат",
+	ItemName_Insurgent.ClassifiedDocument = "Секретный документ",
+	ItemName_Insurgent.Vest_BulletArmyInsurgent = "Армейский бронежилет повстанцев",
+	ItemName_Insurgent.Hat_ArmyInsurgent = "Армейский шлем повстанцев",
+	ItemName_Insurgent.Hat_GasMaskInsurgent = "Противогаз повстанцев",
+	ItemName_Insurgent.Hat_BeretArmyInsurgent = "Армейский берет повстанцев",
+	ItemName_Insurgent.Jacket_ArmyInsurgent = "Армейская куртка повстанцев",
+	ItemName_Insurgent.Trousers_Insurgent = "Армейские штаны повстанцев",
+	ItemName_Insurgent.Bag_ALICEpack_Insurgent = "Армейский рюкзак повстанцев",
+	ItemName_Insurgent.Gloves_LongInsurgent = "Армейские перчатки повстанцев",
+	ItemName_Insurgent.Gloves_FingerlessInsurgent = "Армейские перчатки повстанцев (без пальцев)"
+}

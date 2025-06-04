@@ -1,0 +1,35 @@
+UI_EN {
+UI_prof_DeathOps = "Death Ops Operative",
+UI_prof_DeathOpsDesc = "A black-budget operative specializing in the elimination of biological threats and rogue experiments.",
+
+UI_trait_DeathOpsAssaulter = "Assaulter",
+UI_trait_DeathOpsAssaulterDesc = "Expert in close-quarters combat and dynamic entry techniques.",
+
+UI_trait_DeathOpsRecon = "Recon",
+UI_trait_DeathOpsReconDesc = "Trained for scouting, navigation, and stealth approach behind enemy lines.",
+
+UI_trait_DeathOpsCovert = "Covert Operative",
+UI_trait_DeathOpsCovertDesc = "Master of stealth, evasion, and infiltration using subterfuge and tech.",
+
+UI_trait_DeathOpsDemolitions = "Demolitions",
+UI_trait_DeathOpsDemolitionsDesc = "Trained in explosives, breaching, and precision firearm use.",
+
+UI_trait_DeathOpsCombatMedic = "Combat Medic",
+UI_trait_DeathOpsCombatMedicDesc = "Provides life-saving treatment on the field under intense pressure.",
+
+UI_trait_DeathOpsTechnician = "Technician",
+UI_trait_DeathOpsTechnicianDesc = "Handles electronics, mechanics, and field engineering tasks.",
+
+UI_trait_DeathOpsMarksman = "Marksman",
+UI_trait_DeathOpsMarksmanDesc = "Precision shooter capable of eliminating threats at long distances.",
+
+UI_trait_DeathOpsLinebacker = "Linebacker",
+UI_trait_DeathOpsLinebackerDesc = "Heavy gunner with superior strength and frontline suppression abilities.",
+
+UI_trait_DeathOpsSaboteur = "Saboteur",
+UI_trait_DeathOpsSaboteurDesc = "Expert in disabling enemy systems, electronics, and escape tactics.",
+
+UI_trait_DeathOpsScoutSniper = "Scout Sniper",
+UI_trait_DeathOpsScoutSniperDesc = "Operates far ahead, silent, deadly, and nearly impossible to detect.",
+
+}

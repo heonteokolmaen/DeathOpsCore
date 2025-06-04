@@ -1,0 +1,13 @@
+name=Death Ops Core
+poster=poster.png
+id=deathops_core
+description=Death Ops is a black-budget strike unit trained for one thing: the brutal containment of biological threats. Officially disavowed. Funded by no known agency. Their job? Breach infected zones, clean up the mess, and vanish without a trace. These operatives don’t retire. They just go dark. “Saw a thing in a lab coat tear a man in half. Two shots. It stopped twitching.” Another said, “Whole town was chewing each other. We burned it down. HQ said, ‘never happened.’” Whether it’s hazmat horrors or reanimated corpses, Death Ops goes where no one else will. No rules. No rescue. Just the mission.
+
+lua = {
+    "shared",
+    "shared/DeathOps/CreateDeathOpsTraits.lua",
+    "shared/DeathOps/DeathOpsInit.lua",
+    "shared/DeathOps/DeathOpsTraitDefinitions.lua",
+    "shared/DeathOps/DeathOps_CharacterCreationMain.lua",
+    "shared/DeathOps/Traits/DeathOps_ReconTrait.lua"
+}
