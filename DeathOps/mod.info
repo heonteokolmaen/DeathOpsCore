@@ -9,5 +9,15 @@ lua = {
     "shared/DeathOps/DeathOpsInit.lua",
     "shared/DeathOps/DeathOpsTraitDefinitions.lua",
     "shared/DeathOps/DeathOps_CharacterCreationMain.lua",
-    "shared/DeathOps/Traits/DeathOps_ReconTrait.lua"
+    "shared/DeathOps/Traits/DeathOpsAssaulterTrait.lua",
+    "shared/DeathOps/Traits/DeathOpsBreacherTrait.lua",
+    "shared/DeathOps/Traits/DeathOpsCombatMedicTrait.lua",
+    "shared/DeathOps/Traits/DeathOpsCovertTrait.lua",
+    "shared/DeathOps/Traits/DeathOpsDemolitionsTrait.lua",
+    "shared/DeathOps/Traits/DeathOpsLinebackerTrait.lua",
+    "shared/DeathOps/Traits/DeathOpsMarksmanTrait.lua",
+    "shared/DeathOps/Traits/DeathOpsReconTrait.lua",
+    "shared/DeathOps/Traits/DeathOpsSaboteurTrait.lua",
+    "shared/DeathOps/Traits/DeathOpsScoutSniperTrait.lua",
+    "shared/DeathOps/Traits/DeathOpsTechnicianTrait.lua"
 }
